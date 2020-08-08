@@ -37,7 +37,7 @@ Get to know my project(**e-Programar**) on teaching programming on trying to sha
 - 🎯 See my [Site](https://www.eprogramar.com.br)
 - 🔔 Subscribe at [Youtub](https://www.youtube.com/channel/UCaCxdoLt4IsWm8NUWh4IH9w)
 
-![e-Programar](https://eprogramar.com.br/assets/images/slider-3.png)
+![e-Programar](eprogramar-person.png)
 
 
 
