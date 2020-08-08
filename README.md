@@ -1,4 +1,4 @@
-<img src="fabianogoes-purple-green-circle300.png" height="300" width="300" align="left"></img>
+<img src="https://eprogramar.com.br/assets/images/fabianogoes-purple-green-circle300.png" height="300" width="300" align="left"></img>
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 { 𝚌𝚘𝚍𝚎𝚛𝚜 }! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -39,7 +39,7 @@ Talk to me about
 
 ## e-Programar   
 
-<img align='left' src='eprogramar-person.png' width='300"'>
+<img align='left' src='https://eprogramar.com.br/assets/images/eprogramar-person.png' width='300"'>
 
 Get to know my project(**e-Programar**) on teaching programming on trying to share all the experience I had over more than 15 years
 
