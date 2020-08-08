@@ -44,7 +44,7 @@ Talk to me about
 Get to know my project(**e-Programar**) on teaching programming on trying to share all the experience I had over more than 15 years
 
 - 🎯 See my [Site](https://www.eprogramar.com.br)
-- 🔔 Subscribe at [Youtub](https://www.youtube.com/channel/UCaCxdoLt4IsWm8NUWh4IH9w)
+- 🔔 Subscribe at [Youtube](https://www.youtube.com/channel/UCaCxdoLt4IsWm8NUWh4IH9w)
 
 
 
