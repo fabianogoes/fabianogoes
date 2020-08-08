@@ -1,37 +1,37 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 { 𝚌𝚘𝚍𝚎𝚛𝚜 }! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24) [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/) [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
-[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@fabianogoes-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fabianogoes)](https://twitter.com/fabianogoes) [![Linkedin Badge](https://img.shields.io/badge/-fabianogoes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabianogoes/)](https://www.linkedin.com/in/fabianogoes/) [![Medium Badge](https://img.shields.io/badge/-@fabiano_goes-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@fabiano_goes)](https://medium.com/@fabiano_goes)
+[![Gmail Badge](https://img.shields.io/badge/-fabianogoes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabianogoes@gmail.com)](mailto:fabianogoes@gmail.com)
 
-I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University,Alniya 🏫.I love to explore and learn about new things.
-## 👯 Communities
-* Microsoft Student Partner
-* Deeplearning.ai event ambassador
-* Management Team Lead at Voice Of Code
-* CSE Club at CPU
-* CamPus Ambassador at Coding Ninja and Humanity Welfare Council
-* Internshala Student Partner-16
+I am a Software Engineer with more than 15 years of relevant experience in building and maintaining scalable and distributed solutions. I already worked as a developer, consultant, and tech lead in projects of big companies, building or migrating microservices-based solutions. Currently, I'm working as a Tech Leader at Creditas.
+
+I love listening to music, reading books with my children, and watching TV series.
+
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **Flask,Django**
+- Main Languages: **Java, Kotlin**
+- Others Languages: **Python, Javascript**.
+- Backend development using **Spring Framework**
 - Making for **Relational Database Management Systems**
 - Robust full-stack system design implementation
-- Desktop application development using **Flutter**(Still learning)
-- Mobile application development using **Flutter and Kotlin**
 - Creating scalable cloud architecture using **AWS Cloud**
-- Solving Data structure and algorithm questions in **Java and Python**
+- Solving Data structure and algorithm questions in **Java and Kotlin**
+- Programming Best Practices: **DDD, TDD, Clean Code, Clean Archicteture, SOLID** 
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [Harsh Blog](https://harshblog.xyz)
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html)
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
-- ⚡ Fun fact: Internet users blink less than usual.
+- 📫 Read my blogs: [Fabiano Góes Blog](https://medium.com/@fabiano_goes)
+- 🎯 See more about my Experiences and Skills at LinkedIn: [LinkedIn](https://www.linkedin.com/in/fabianogoes/)
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
+> Get to know my project on teaching programming on trying to share all the experience I had over more than 15 years
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
+## e-Programar   
+- 🎯 See my [Site](https://www.eprogramar.com.br)
+- 🔔 Subscribe at [Youtub](https://www.youtube.com/channel/UCaCxdoLt4IsWm8NUWh4IH9w)
 
-```⭐️ From [harshkumarkhatri](https://github.com/harshkumarkhatri)```
+![Fabiano's github stats](https://github-readme-stats.vercel.app/api?username=fabianogoes&hide=["issues"]&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fabianogoes.fabianogoes)
+
+```⭐️ From [fabianogoes](https://github.com/fabianogoes)```
