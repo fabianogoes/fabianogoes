@@ -30,8 +30,8 @@ Talk to me about
 - 🎯 See my [Site](https://www.eprogramar.com.br)
 - 🔔 Subscribe at [Youtub](https://www.youtube.com/channel/UCaCxdoLt4IsWm8NUWh4IH9w)
 
-![Fabiano's github stats](https://github-readme-stats.vercel.app/api?username=fabianogoes&hide=["issues"]&show_icons=true)
+![Fabiano Goes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabianogoes&hide=["stars"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fabianogoes.fabianogoes)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianogoes.fabianogoes)
 
-```⭐️ From [fabianogoes](https://github.com/fabianogoes)```
+
