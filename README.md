@@ -1,15 +1,20 @@
-![Fabiano Góes](fabianogoes-purple-green-circle300.png)
+<img src="fabianogoes-purple-green-circle300.png" height="300" width="300" align="left"></img>
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 { 𝚌𝚘𝚍𝚎𝚛𝚜 }! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@fabianogoes-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fabianogoes)](https://twitter.com/fabianogoes) [![Linkedin Badge](https://img.shields.io/badge/-fabianogoes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabianogoes/)](https://www.linkedin.com/in/fabianogoes/) [![Medium Badge](https://img.shields.io/badge/-@fabiano_goes-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@fabiano_goes)](https://medium.com/@fabiano_goes)
 [![Gmail Badge](https://img.shields.io/badge/-fabianogoes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabianogoes@gmail.com)](mailto:fabianogoes@gmail.com)
 
-I am a Software Engineer with more than 15 years of relevant experience in building and maintaining scalable and distributed solutions. I already worked as a developer, consultant, and tech lead in projects of big companies, building or migrating microservices-based solutions. Currently, I'm working as a Tech Leader at Creditas.
+
+I am a Software Engineer with more than 15 years of relevant experience in building and maintaining scalable and distributed solutions.   
+I already worked as a developer, consultant, and tech lead in projects of big companies, building or migrating microservices-based solutions.    
+Currently, I'm working as a Tech Leader at Creditas.
 
 I love listening to music, reading books with my children, and watching TV series.
+
+
 
 ## ⚡ Technologies
 Talk to me about
@@ -34,12 +39,14 @@ Talk to me about
 
 ## e-Programar   
 
+<img align='left' src='eprogramar-person.png' width='300"'>
+
 Get to know my project(**e-Programar**) on teaching programming on trying to share all the experience I had over more than 15 years
 
 - 🎯 See my [Site](https://www.eprogramar.com.br)
 - 🔔 Subscribe at [Youtub](https://www.youtube.com/channel/UCaCxdoLt4IsWm8NUWh4IH9w)
 
-![e-Programar](eprogramar-person.png)
+
 
 
 
