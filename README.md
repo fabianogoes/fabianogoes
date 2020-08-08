@@ -24,14 +24,20 @@ Talk to me about
 - 📫 Read my blogs: [Fabiano Góes Blog](https://medium.com/@fabiano_goes)
 - 🎯 See more about my Experiences and Skills at LinkedIn: [LinkedIn](https://www.linkedin.com/in/fabianogoes/)
 
-> Get to know my project on teaching programming on trying to share all the experience I had over more than 15 years
-
-## e-Programar   
-- 🎯 See my [Site](https://www.eprogramar.com.br)
-- 🔔 Subscribe at [Youtub](https://www.youtube.com/channel/UCaCxdoLt4IsWm8NUWh4IH9w)
-
 ![Fabiano Goes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabianogoes&hide=["stars"]&show_icons=true)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianogoes.fabianogoes)
+
+---
+
+## e-Programar   
+
+Get to know my project(**e-Programar**) on teaching programming on trying to share all the experience I had over more than 15 years
+
+- 🎯 See my [Site](https://www.eprogramar.com.br)
+- 🔔 Subscribe at [Youtub](https://www.youtube.com/channel/UCaCxdoLt4IsWm8NUWh4IH9w)
+
+![e-Programar](https://eprogramar.com.br/assets/images/slider-3.png)
+
 
 
