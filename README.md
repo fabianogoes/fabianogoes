@@ -24,7 +24,8 @@ Talk to me about
 - Creating scalable cloud architecture using **AWS Cloud**
 - Solving Data structure and algorithm questions in **Java and Kotlin**
 - Programming Best Practices: **DDD, TDD, Clean Code, Clean Archicteture, SOLID** 
-## Hello World!! 🤔
+
+## :page_facing_up: Me 
 - 💬 Ask me about anything and everything.
 - 📫 Read my blogs: [Fabiano Góes Blog](https://medium.com/@fabiano_goes)
 - 🎯 See more about my Experiences and Skills at LinkedIn: [LinkedIn](https://www.linkedin.com/in/fabianogoes/)
