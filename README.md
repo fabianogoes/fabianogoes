@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-fabianogoes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabianogoes@gmail.com)](mailto:fabianogoes@gmail.com)
 
 
-I am a Software Engineer with more than 15 years of relevant experience in building and maintaining scalable and distributed solutions.   
+I am a Software Engineer since 2000 building and maintaining scalable and distributed solutions.   
 I already worked as a developer, consultant, and tech lead in projects of big companies, building or migrating microservices-based solutions.    
 Currently, I'm working as a Tech Leader at Creditas.
 
