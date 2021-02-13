@@ -27,7 +27,7 @@ Talk to me about
 
 ## :page_facing_up: Me 
 - 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [Fabiano Góes Blog](https://medium.com/@fabiano_goes)
+- 📫 Read my blogs: [Fabiano Góes Blog](https://fabiano-goes.medium.com/)
 - 🎯 See more about my Experiences and Skills at LinkedIn: [LinkedIn](https://www.linkedin.com/in/fabianogoes/)
 
 ![Fabiano Goes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabianogoes&hide=["stars"]&show_icons=true)
@@ -44,6 +44,7 @@ Get to know my project(**e-Programar**) on teaching programming on trying to sha
 
 - 🎯 See my [Site](https://www.eprogramar.com.br)
 - 🔔 Subscribe at [Youtube](https://www.youtube.com/channel/UCaCxdoLt4IsWm8NUWh4IH9w)
+- 🔔 Follow me at [Instagram](https://www.instagram.com/eprogramar)
 
 
 
