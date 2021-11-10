@@ -8,7 +8,7 @@
 
 I am a Software Engineer since 2000 building and maintaining scalable and distributed solutions.   
 I already worked as a developer, consultant, and tech lead in projects of big companies, building or migrating microservices-based solutions.    
-Currently, I'm working as a Tech Leader at Creditas.
+Currently, I'm working as a Software Engineer at Cora.
 
 I love listening to music, reading books with my children, and watching TV series.
 
