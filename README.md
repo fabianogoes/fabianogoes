@@ -15,20 +15,42 @@ I love listening to music, reading books with my children, and watching TV serie
 
 
 ## ⚡ Technologies
-Talk to me about
-- Main Languages: **Java, Kotlin**
-- Others Languages: **Python, Javascript**.
-- Backend development using **Spring Framework**
-- Making for **Relational Database Management Systems**
-- Robust full-stack system design implementation
-- Creating scalable cloud architecture using **AWS Cloud**
-- Solving Data structure and algorithm questions in **Java and Kotlin**
-- Programming Best Practices: **DDD, TDD, Clean Code, Clean Archicteture, SOLID** 
+💬 Talk to me about
 
-## :page_facing_up: Me 
-- 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [Fabiano Góes Blog](https://fabiano-goes.medium.com/)
-- 🎯 See more about my Experiences and Skills at LinkedIn: [LinkedIn](https://www.linkedin.com/in/fabianogoes/)
+- Main Languages: 
+  - **Kotlin**
+  - Java
+- Others Languages: 
+  - **Python**
+  - Go
+- Backend development: 
+  - **Spring Framework**
+- Relational Database:
+  - MySQL
+  - PostgreSQL
+- NoSQL Database:
+  - MongoDB
+- Creating scalable cloud architecture using Cloud:
+  - **AWS**
+  - Google Cloud Platform
+- Programming Best Practices: 
+  - Clean Code
+  - SOLID
+  - TDD
+  - DDD
+  - Clean Archicteture
+  - Hexagonal Archicteture
+  - Event Driven
+
+## :mag: See more about my Experiences and Skills at: 
+  - [LinkedIn](https://www.linkedin.com/in/fabianogoes/)
+  - [e-Programar](https://eprogramar.com.br)
+  - [Personal Site](http://fabianogoes.com.br)
+  - [Youtube](https://www.youtube.com/EnsinandoProgramar)
+  - Blogs:
+    - https://fabiano-goes.medium.com
+    - https://dev.to/fabianogoes
+    - https://estudepy.wordpress.com
 
 ![Fabiano Goes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabianogoes&hide=["stars"]&show_icons=true)
 
