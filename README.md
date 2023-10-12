@@ -30,8 +30,8 @@ Currently, I'm working as a Software Engineer at Cora.
   - [Personal Site](http://fabianogoes.com.br)
   - [Youtube](https://www.youtube.com/EnsinandoProgramar)
   - Blogs:
-    - https://fabiano-goes.medium.com
-    - https://dev.to/fabianogoes
+    - [Blog Medium](https://fabiano-goes.medium.com)
+    - [Dev.to](https://dev.to/fabianogoes)
 
 ## e-Programar   
 
