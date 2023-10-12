@@ -1,6 +1,6 @@
 <h2> Hi { 𝚌𝚘𝚍𝚎𝚛𝚜 } ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50"'>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianogoes.fabianogoes) [![Linkedin Badge](https://img.shields.io/badge/-fabianogoes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabianogoes/)](https://www.linkedin.com/in/fabianogoes/) [![Medium Badge](https://img.shields.io/badge/-@fabianogoes-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://fabiano-goes.medium.com/)](https://fabiano-goes.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-fabianogoes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabianogoes@gmail.com)](mailto:fabianogoes@gmail.com)
