@@ -1,6 +1,8 @@
 <h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi { 𝚌𝚘𝚍𝚎𝚛𝚜 }!</h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50"'>
+<!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='70px'> -->
+<img align='right' src='https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif' width='100px'> 
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianogoes.fabianogoes) [![Linkedin Badge](https://img.shields.io/badge/-fabianogoes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabianogoes/)](https://www.linkedin.com/in/fabianogoes/) [![Medium Badge](https://img.shields.io/badge/-@fabianogoes-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://fabiano-goes.medium.com/)](https://fabiano-goes.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-fabianogoes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabianogoes@gmail.com)](mailto:fabianogoes@gmail.com)
