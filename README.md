@@ -5,7 +5,6 @@
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianogoes.fabianogoes) [![Linkedin Badge](https://img.shields.io/badge/-fabianogoes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabianogoes/)](https://www.linkedin.com/in/fabianogoes/) [![Medium Badge](https://img.shields.io/badge/-@fabianogoes-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://fabiano-goes.medium.com/)](https://fabiano-goes.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-fabianogoes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabianogoes@gmail.com)](mailto:fabianogoes@gmail.com)
 
 
 I am a Software Engineer since 2000 building and maintaining scalable and distributed solutions.   
