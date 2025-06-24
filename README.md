@@ -35,12 +35,6 @@ Currently, I'm working as a Software Engineer at Cora.
     - [Dev.to](https://dev.to/fabianogoes)
 
 ## e-Programar   
-
-<img align='left' src='https://eprogramar.com.br/assets/images/eprogramar-person.png' width='300"'>
-
-Get to know my project(**e-Programar**) on teaching programming on trying to share all the experience I had over more than 15 years
-
-- 🎯 See my [Site](https://www.eprogramar.com.br)
 - 🔔 Subscribe at [Youtube](https://www.youtube.com/channel/UCaCxdoLt4IsWm8NUWh4IH9w)
 - 🔔 Follow me at [Instagram](https://www.instagram.com/eprogramar)
 
